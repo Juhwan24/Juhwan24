@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Kim Juhwan. Give me the money. 
 
 <!--
 **Juhwan24/Juhwan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
