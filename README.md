@@ -14,7 +14,7 @@
   />
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&repeat=false&width=600&height=30&lines=Contact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Contact" alt="Typing SVG" /></a>
 
 <span>
   <a href="mailto:rlawnghks333@gmail.com" target="_blank">
@@ -23,7 +23,7 @@
 </span>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&repeat=false&width=600&height=30&lines=Skills" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Skills" alt="Typing SVG" /></a>
 <span>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </span>
