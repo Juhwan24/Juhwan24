@@ -6,8 +6,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=79ADF7&center=true&width=600&height=90&lines=Hi%2C+I'm+Juhwan+Kim;Studying+Computer+Science" alt="Typing SVG" /></a>
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Juhwan24"
+    width="600"
+    height="120"
+  />
+</a>
 
-### Contact
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=F7F7F7&center=true&repeat=false&width=600&height=90&lines=Contact" alt="Typing SVG" /></a>
+
 <span>
   <a href="mailto:rlawnghks333@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -15,7 +23,7 @@
 </span>
 
 
- ### SKILLS
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=F7F7F7&center=true&repeat=false&width=600&height=90&lines=Skills" alt="Typing SVG" /></a>
 <span>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </span>
@@ -57,13 +65,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juhwan24&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 -->
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Juhwan24"
-    width="600"
-    height="120"
-  />
-</a>
+
   
   
 </div><br>
