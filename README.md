@@ -16,13 +16,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Contact" alt="Typing SVG" /></a>
 
+<div>
 <span>
   <a href="mailto:rlawnghks333@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 
-
+</div>
+<br><br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Skills" alt="Typing SVG" /></a>
 
 <div>
