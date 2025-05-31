@@ -2,7 +2,7 @@
 
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7BECE7,100:5F72DC&section=header&reversal=false&textBg=false" width="100%"/>
-<br><br>
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=79ADF7&center=true&width=600&height=90&lines=Hi%2C+I'm+Juhwan+Kim;Studying+Computer+Science" alt="Typing SVG" /></a>
 <br>
 
@@ -14,14 +14,15 @@
   />
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Contact" alt="Typing SVG" /></a>
+<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Contact" alt="Typing SVG" /></p>
 
 <span>
   <a href="mailto:rlawnghks333@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<br><br><br>
+
+<br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Skills" alt="Typing SVG" /></a>
 <div>
 <span>
