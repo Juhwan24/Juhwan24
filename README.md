@@ -68,7 +68,7 @@
 -->
 
 
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnghks333)](https://solved.ac/rlawnghks333/)
   
 </div><br>
 
