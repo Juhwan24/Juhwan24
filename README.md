@@ -6,12 +6,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=79ADF7&center=true&width=600&height=90&lines=Hi%2C+I'm+Juhwan+Kim;Studying+Computer+Science" alt="Typing SVG" /></a>
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Juhwan24"
-    width="600"
-    height="200"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Juhwan24"
+  width="600"
+  height="300"
+/>
 </a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=00C0F7FF&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Contact" alt="Typing SVG" /></a>
