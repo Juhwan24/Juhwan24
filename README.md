@@ -22,6 +22,8 @@
   </a>
 </span>
 
+
+
 <br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=00C0F7FF&center=true&vCenter=true&repeat=false&width=600&height=33&lines=Skills" alt="Typing SVG" /></a>
 <div>
@@ -48,7 +50,7 @@
 <span>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </span>
-</br>
+
 <span>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </span>
@@ -56,7 +58,7 @@
 <span>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </span>
-
+</br>
 <span>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </span>
@@ -69,7 +71,25 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </span>
 
+<span>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+</span>
 
+<span>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+</span>
 </div>
 </br>
 
