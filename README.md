@@ -5,12 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7BECE7,100:5F72DC&section=header&reversal=false&textBg=false" width="100%"/>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=79ADF7&center=true&width=600&height=90&lines=Hi%2C+I'm+Juhwan+Kim;Studying+Computer+Science" alt="Typing SVG" /></a>
--->
+
 <br>
 <img src="https://github.com/user-attachments/assets/324c2cdd-8448-4c07-9b76-a099d905af0d" width="100%"/>
 <br>
 
-
+-->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Juhwan24"
@@ -110,9 +110,12 @@
 -->
 <br><br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhwan24&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=34% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhwan24&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=60% />
+<!--
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnghks333" alt="Solved.ac Profile">
+-->
 </div>
+
 </div><br>
 
 <!-- Footer banner -->
