@@ -5,12 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7BECE7,100:5F72DC&section=header&reversal=false&textBg=false" width="100%"/>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=79ADF7&center=true&width=600&height=90&lines=Hi%2C+I'm+Juhwan+Kim;Studying+Computer+Science" alt="Typing SVG" /></a>
-
-<br>
+-->
 <img src="https://github.com/user-attachments/assets/324c2cdd-8448-4c07-9b76-a099d905af0d" width="100%"/>
 <br>
-
--->
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Juhwan24&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Juhwan24"
@@ -18,7 +16,7 @@
   height="300"
 />
 </a>
-
+-->
 </br></br>
 
 
